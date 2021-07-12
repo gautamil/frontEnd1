@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman';
+    margin-left: 10%;
+    margin-right: 10%;
+}
+footer{
+    background-color: #005677;
+}
+#footer p{
+    color: white;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer img{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+h2, h1{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+#batman{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
