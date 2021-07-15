@@ -1,0 +1,45 @@
+body{
+    font-family: 'Times New Roman';
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Nunito', sans-serif;
+} 
+header{
+    background-image: url(../img/kitty_banner.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 300px;
+}
+.pp{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    position: absolute;
+    z-index: 1;
+}
+footer{
+    background-color: purple;
+}
+#footer{
+    color: white;
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2, h1{
+    color: purple;
+    background-color: #C4C4C4;
+    text-transform: capitalize;
+}
+span{
+    font-style: italic;
+    font-weight: bold;
+}
+.fa-github{
+    color: white;
+    margin-left: 8px;
+    margin-right: 8px;
+}
